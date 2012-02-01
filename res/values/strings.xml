@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ArtIMEHackActivity!</string>
+    <string name="app_name">ArtIMEHack</string>
+    <string name="Caution">既存のファイルが読み込めませんでした</string>
+</resources>
